@@ -21,7 +21,7 @@ theme_skin: orange
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 #education_in_main: True
 =======
-theme_skin: blue # blue turquoise green berry orange ceramic
+theme_skin: orange # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 >>>>>>> 9fb69e1def08f55dabd380022f0f5c4d3bbcb6b4
 
