@@ -1,0 +1,208 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    # Site Settings
+    title: Dolm's CV
+    url: 'http://cv.ttggs.com'
+   # about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    
+    # Profile information
+    name: Dolm Chen
+    tagline: GIS Expert / Consultant
+    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    
+    # Sidebar links
+    email: dolm5415@gmail.com
+    phone: (86)13510987586
+    wechat: dolm5415
+    #website: www.ttggs.com #do not add http://
+    #linkedin: alandoe
+    #github: whoareyou40
+    #twitter: '@webjeda'
+
+    languages:
+        - language:
+          idiom: Chinese
+          level: Native
+        - language:
+          idiom: Hokkien
+          level: Native
+        - language:
+          idiom: Cantonese
+          level: Professional
+        - language:
+          idiom: English
+          level: Professional       
+    interests:
+        - interest:
+          item: Reading
+          link:
+        - interest: 
+          item: Traveling
+          link:
+        - interest:
+          item: Swimming
+          link: 
+
+        
+
+
+
+
+career-profile: 
+    title: CAREER PROFILE
+    text: 'Dolm Chen is a Senior GIS Expert with over 17 years of IT experiences.<br>
+    He has extensive experience in the full system cycle development from gathering user requirement, conducting the current environment description, performing the feasibility study, conducting the system analysis and design, data analysis and modeling, preparing the functional and system specifications, performing the system sizing, to system implementation, testing, programming, and training.<br>
+    He is experienced in IT system applications, especially the web-based and GIS systems development, in which he acquired intensive experiences in  ArcGIS Server, GeoServer, Weblogic, Mapguide Server, Oracle, SQL server, Apache Tomcat as well as development tools such as JavaScript, J2EE, .NET, Python .etc.<br>
+    He is passion for new technology and new things. 
+    Recently, he is researching about the quantitative trading of digital currency.'
+
+
+
+studies: 
+    - education:
+      degree: Computer Application Technology
+      university: Xiamen University of Technology
+      time: 1997 - 2000
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
+
+
+
+
+experiences:
+    title: Experiences
+    
+    
+    experiences:
+        - role: GIS Expert
+          time: 2017 - To Date
+          company: ShenZhen Wayto Technological Development Ltd
+          details: Develop a GIS platform to support the SAAS for Operation and Maintenance. System design, project implementation, key technical support, user training, BIM+GIS research.
+        - role: GIS Consultant/GIS Manager
+          time: 2014 - 2017
+          company: Axline (Shenzhen) Software Technology Ltd
+          details: Provide solutions for GIS in commercial real estate, intelligent parking, residential property management.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training.
+        - role: GIS Senior Software Engineer
+          time: 2008 - 2013
+          company: AECOM Design Centre(Shenzhen)
+          details: GIS technology research, system design, software programming, key technical support, project documentations.
+        - role: GIS Software Engineer
+          time: 2006 - 2008
+          company: Shenzhen Careland Computer Systems Technology Ltd
+          details: Software e project development, project implementation deployment, responsible for software development progress control, resource control.
+        - role: Software Engineer
+          time: 2001 - 2005
+          company: Xiamen Union Network Ltd
+          details: Website development, maintenance, after-sales service, OA system development.
+
+
+projects:
+    title: PROJECTS
+    
+    projects:
+      - project:
+        title: SAAS for Operation and Maintenance
+        link: "#"
+        tagline: "Vue,Openlayers,Python,Bootstrap,GeoServer,Cesium.JS,Three.JS,PostGIS,Linux"
+      - project:
+        title: Intelligent Agriculture System
+        link: "#"
+        tagline: "Javascript,Openlayers,Bootstrap,GeoServer,Cesium.JS,PostGIS,Linux"
+      - project:
+        title: Big Data Analysis for Cross-Border Electronic Commerce
+        link: "#"
+        tagline: "ECharts,D3.js,Amazon MWS,Spirng MVC,MySQL,AWS"
+      - project:
+        title: Commercial real estate analysis system
+        link: "#"
+        tagline: "AIMS(Mapguide),JQuery,C#,Oracle,Windows Server"
+      - project:
+        title: Smart Parking Management
+        link: "#"
+        tagline: "Android,SQLite,Bmob"
+      - project:
+        title: Macao tree management system
+        link: "#"
+        tagline: "Mapguide,JavaScript,C#"
+      - project:
+        title: Shen Zhen Bao an District Integrated Management System Map Service Module
+        link: "#"
+        tagline: "Javascript,ArcGIS Desktop,ArcIMS"
+      - project:
+        title: Telecom Changsha City in Hunan 114 Query System
+        link: "#"
+        tagline: "Java,Mapinfo,Javascript,SQL Server"
+
+
+publications:
+    title: PUBLICATIONS
+    
+    publications:
+      - paper:
+        title: "Surebet.com"
+        authors: Website
+        conference: <a href="http://zh.surebet.com" target="_blank" rel="nofollow">A WebSite for Sports Arbitrage(Chinese Version)</a>
+      - paper:
+        title: Blackjack Card Counting Master
+        authors: Android APP
+        conference: <a href="http://www.ttggs.com/Download/BlackJackCountingMaster.apk" target="_blank" rel="nofollow">A APP for Blackjack Card Counting</a>
+      - paper:
+        title: Slime Story
+        authors: Android Game
+        conference: <a href="http://www.ttggs.com/Download/com.ttggs.slimestory_1.0.5.apk" target="_blank" rel="nofollow">A platform puzzle game</a>
+        
+skills: 
+    title: Skill
+    skills:
+        - skill:
+          name: Java
+          level: 95%
+        - skill:
+          name: JavaScript
+          level: 95%
+        - skill:
+          name: C#
+          level: 80%
+        - skill:
+          name: Python
+          level: 70%
+        - skill:
+          name: VB.Net
+          level: 70%
+        - skill:
+          name: Node.JS
+          level: 80%
+        - skill:
+          name: Android
+          level: 80%
+        - skill:
+          name: HTML5 & CSS
+          level: 90%
+        - skill:
+          name: Database/SQL
+          level: 95%
+        - skill:
+          name: Open Source GIS(GeoServer, QGIS, POSTGIS, Openlayers, Mapguide)
+          level: 90%
+        - skill:
+          name: Commercial GIS(ArcGIS,Super Map)
+          level: 85%
+        - skill:
+          name: Linux
+          level: 70%
+        - skill:
+          name: Version Control
+          level: 80%
+        - skill: Crypto & Blockchain(CCXT, Catalyst, AioQuant, VNPY)
+          name: Version Control
+          level: 60%
+        
+
+
+footer: 
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
