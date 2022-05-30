@@ -1,18 +1,18 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output.
+# Be aware that even a small syntax error here can lead to failures in output. 
 #
 
 sidebar:
     # Site Settings
     title: Dolm's CV
-    url: 'https://whoareyou40.github.io'
+    url: 'http://whoareyou40.github.io'
    # about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
-
+    
     # Profile information
     name: Dolm Chen
-    tagline: Community Manager / Consultant
+    tagline: GIS Expert / Consultant
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    
     # Sidebar links
     email: dolm5415@gmail.com
     phone: (86)13510987586
@@ -34,24 +34,24 @@ sidebar:
           level: Professional
         - language:
           idiom: English
-          level: Professional
+          level: Professional       
     interests:
         - interest:
           item: Reading
           link:
-        - interest:
+        - interest: 
           item: Traveling
           link:
         - interest:
           item: Swimming
-          link:
+          link: 
+
+        
 
 
 
 
-
-
-career-profile:
+career-profile: 
     title: CAREER PROFILE
     text: 'Dolm Chen is a Senior GIS Expert with over 17 years of IT experiences.<br>
     He has extensive experience in the full system cycle development from gathering user requirement, conducting the current environment description, performing the feasibility study, conducting the system analysis and design, data analysis and modeling, preparing the functional and system specifications, performing the system sizing, to system implementation, testing, programming, and training.<br>
@@ -61,7 +61,7 @@ career-profile:
 
 
 
-studies:
+studies: 
     - education:
       degree: Computer Application Technology
       university: Xiamen University of Technology
@@ -76,15 +76,11 @@ studies:
 
 experiences:
     title: Experiences
-
-
+    
+    
     experiences:
-        - role: Solution Consultant/Community Manager
-          time: 2021 - To Date
-          company: Hummingbot.io
-          details: Build Chinese community for Hummingbot. Make contents to help new users get started. Help users with understanding the different trading strategies.Identify high potential community members for collaboration with Hummingbot.
         - role: GIS Expert
-          time: 2017 - 2021
+          time: 2017 - To Date
           company: ShenZhen Wayto Technological Development Ltd
           details: Develop a GIS platform to support the SAAS for Operation and Maintenance. System design, project implementation, key technical support, user training, BIM+GIS research.
         - role: GIS Consultant/GIS Manager
@@ -107,7 +103,7 @@ experiences:
 
 projects:
     title: PROJECTS
-
+    
     projects:
       - project:
         title: SAAS for Operation and Maintenance
@@ -133,17 +129,24 @@ projects:
         title: Macao tree management system
         link: "#"
         tagline: "Mapguide,JavaScript,C#"
-
+      - project:
+        title: Shen Zhen Bao an District Integrated Management System Map Service Module
+        link: "#"
+        tagline: "Javascript,ArcGIS Desktop,ArcIMS"
+      - project:
+        title: Telecom Changsha City in Hunan 114 Query System
+        link: "#"
+        tagline: "Java,Mapinfo,Javascript,SQL Server"
 
 
 publications:
     title: PUBLICATIONS
-
+    
     publications:
       - paper:
         title: "Surebet.com"
         authors: Website
-        conference: <a href="http://zh.surebet.com" target="_blank" rel="nofollow">A WebSite for Sports Arbitrage</a>
+        conference: <a href="http://zh.surebet.com" target="_blank" rel="nofollow">A WebSite for Sports Arbitrage(Chinese Version)</a>
       - paper:
         title: Blackjack Card Counting Master
         authors: Android APP
@@ -152,22 +155,22 @@ publications:
         title: Slime Story
         authors: Android Game
         conference: <a href="http://www.ttggs.com/Download/com.ttggs.slimestory_1.0.5.apk" target="_blank" rel="nofollow">A platform puzzle game</a>
-
-skills:
+        
+skills: 
     title: Skill
     skills:
         - skill:
           name: Java
-          level: 85%
+          level: 95%
         - skill:
           name: JavaScript
-          level: 85%
+          level: 95%
         - skill:
           name: C#
           level: 80%
         - skill:
           name: Python
-          level: 75%
+          level: 70%
         - skill:
           name: VB.Net
           level: 70%
@@ -176,27 +179,30 @@ skills:
           level: 80%
         - skill:
           name: Android
-          level: 70%
+          level: 80%
         - skill:
           name: HTML5 & CSS
           level: 90%
         - skill:
           name: Database/SQL
+          level: 95%
+        - skill:
+          name: Open Source GIS(GeoServer, QGIS, POSTGIS, Openlayers, Mapguide)
           level: 90%
         - skill:
-          name: GIS(GeoServer, QGIS, POSTGIS, Openlayers, Mapguide, ArcGIS, SuperMap)
-          level: 90%
+          name: Commercial GIS(ArcGIS,Super Map)
+          level: 85%
         - skill:
           name: Linux
           level: 70%
         - skill:
           name: Version Control
           level: 80%
-        - skill:
-          name: Crypto & Blockchain(CCXT, Catalyst, AioQuant, VNPY, Hummingbot)
+        - skill: Crypto & Blockchain(CCXT, Catalyst, AioQuant, VNPY)
+          name: Version Control
           level: 60%
+        
 
 
-
-footer:
+footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
