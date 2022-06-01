@@ -141,6 +141,10 @@ publications:
 
     publications:
       - paper:
+        title: "Hummingbot Chinese wiki"
+        authors: Website
+        conference:<a href="https://github.com/CoinAlpha/hummingbot_chinese" target="_blank" rel="nofollow">Hummingbot Chinese wiki</a>
+      - paper:
         title: "Surebet.com"
         authors: Website
         conference: <a href="http://zh.surebet.com" target="_blank" rel="nofollow">A WebSite for Sports Arbitrage</a>
